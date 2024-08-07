@@ -1,0 +1,9 @@
+# Игнорировать все файлы .log
+*.log
+
+# Игнорировать папку build
+build/
+
+/node_modules
+
+.env
